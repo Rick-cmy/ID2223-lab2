@@ -1,5 +1,3 @@
-# ID2223-lab2
-
 # ID2223 Lab 2 — LLM Fine-tuning + UI
 
 ## Task 1: Fine-tuning (what I did)
