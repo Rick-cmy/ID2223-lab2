@@ -28,4 +28,4 @@ Notebook:
 - Clean and deduplicate samples; enforce a consistent chat template to reduce format variance.
 
 ## UI (public URL)
-- (to be added) Hugging Face Spaces / Streamlit URL
+- Hugging Face Spaces / Streamlit URL: https://huggingface.co/spaces/cmyRick/ID2223-Lab2
