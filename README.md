@@ -36,7 +36,7 @@ This repository contains the code, training notebook, and a deployed UI for Lab 
 
 ---
 
-## Task 2 — Improving performance / scalability (description)
+## Task 2 — Improving performance / scalability 
 
 ### (A) Model-centric improvements
 - Hyperparameter search: tune LoRA rank `r` (e.g., 8/16) and learning rate (e.g., 1e-4/2e-4) to balance quality vs training cost.
